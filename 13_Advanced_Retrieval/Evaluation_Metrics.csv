@@ -1,0 +1,8 @@
+,context_recall,faithfulness,factual_correctness,answer_relevancy,context_entity_recall,noise_sensitivity_relevant
+Naive,0.8333,0.8248,0.269,0.5718,0.4567,0.4914
+BM25,0.4333,0.6778,0.272,0.5814,0.3117,0.3118
+Contextual Compression,0.4833,0.7387,0.368,0.4768,0.4383,0.3639
+Multi Query,0.9667,0.6557,0.345,0.6746,0.4583,0.6188
+Parent Document,0.4917,0.7083,0.237,0.4784,0.265,0.2583
+Ensemble,0.8667,0.665,0.361,0.4692,0.3917,0.583
+Semantic,0.8583,0.5367,0.268,0.5745,0.3917,0.5958
