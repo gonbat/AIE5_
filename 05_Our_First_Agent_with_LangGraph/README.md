@@ -9,6 +9,12 @@
 |:-----------------|:-----------------|:-----------------|:-----------------|:-----------------|:-----------------|:-----------------|
 | [Session 5: Pre-Work](https://www.notion.so/Session-5-Agents-and-Evaluation-with-LangGraph-LangSmith-184cd547af3d807096c8ff666a008337?pvs=4#185cd547af3d80fa83afdc37a0668751)| [Session 5: Agents and Evaluation with LangGraph & LangSmith](https://www.notion.so/Session-5-Agents-and-Evaluation-with-LangGraph-LangSmith-184cd547af3d807096c8ff666a008337#185cd547af3d804fa3c7c27128b22936) | [Recording](https://us02web.zoom.us/rec/share/tI6js4yc5QSU_UULat7ULXY0azwKLtvFxVauxAOSpbjBtqVkPMmTrQxEsx1s2rRN.YZW67zTiEIrZbnMK) (87Mzi+G^) | [Session 5: Agents with LangGraph](https://www.canva.com/design/DAGcIdxf5K0/Y-0-K5HSH6D3YmfJQ3potg/edit?utm_content=DAGcIdxf5K0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) | [05_Our_First_Agent_with_LangGraph](https://github.com/AI-Maker-Space/AIE5/tree/main/05_Our_First_Agent_with_LangGraph) | [Session 5: Agents with LangGraph](https://forms.gle/EAjSjZ7C7TEjBKgN6) | [AIE5 Feedback 1/28](https://forms.gle/2MezDhct7BVt4NHo8) |
 
+
+
+### LOOM Walkthrough
+
+ Loom video : [Watch Video](https://www.loom.com/share/926d5666e8894cd8b82c3803c441825f?sid=248697a0-814c-4684-b82f-cb73a804dbc4)
+
 In today's assignment, we'll be creating an Agentic LangChain RAG Application.
 
 - 🤝 Breakout Room #1:

@@ -10,6 +10,10 @@
 |:-----------------|:-----------------|:-----------------|:-----------------|:-----------------|:-----------------|:-----------------|
 | [Session 8: Pre-Work](https://www.notion.so/Session-8-RAG-Evaluation-and-Assessment-189cd547af3d804bbf68df4ccbf888c3?pvs=4#191cd547af3d80ba9407d06e7c157d69)| [Session 8: RAG Evaluation and Assessment](https://www.notion.so/Session-8-RAG-Evaluation-and-Assessment-189cd547af3d804bbf68df4ccbf888c3) | [Recording](https://us02web.zoom.us/rec/play/cVT6Eb0l8dpgMQpLDg28hx4cmaxWVO6JM9OH1FuHOPwH11T84Q2H_VeQN--kIJMSKyr-Clo70eGIuvZK.mEUdJNs__pPKIYpD?canPlayFromShare=true&from=my_recording&continueMode=true&componentName=rec-play&originRequestUrl=https%3A%2F%2Fus02web.zoom.us%2Frec%2Fshare%2Fl2GgqNwg8PStYdjU7ZCmMmj6UmwgO0no-2YR1FphAt0yamETmsXEjPqn1kCi7VIC.jk1jaGu_zO45kW5H) (fq1&6+a8) | [Session 8: RAG Evaluation and Assessment](https://www.canva.com/design/DAGcISsjP8Y/wArKaK2F3jb5ocBgf91UqA/edit?utm_content=DAGcISsjP8Y&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) | You Are Here! | [Session 8: RAG Evaluation and Assessment](https://forms.gle/A5zJusphC8DkaKxz7) | [AIE5 Feedback 2/6](https://forms.gle/vB6iMr9sgqmz5A5x5) |
 
+### LOOM Walkthrough
+
+ Loom video : [Watch Video](https://www.loom.com/share/14e16b732be443e5a0e4b364730e4993?sid=132131d3-57dc-4c8b-be2f-41c0d9ccca8d)
+
 In today's assignment, we'll be creating Synthetic Data, and using it to benchmark (and improve) a LCEL RAG Chain.
 
 - 🤝 Breakout Room #1

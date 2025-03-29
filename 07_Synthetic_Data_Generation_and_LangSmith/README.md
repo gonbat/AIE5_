@@ -10,6 +10,11 @@
 |:-----------------|:-----------------|:-----------------|:-----------------|:-----------------|:-----------------|:-----------------|
 | [Session 7: Pre-Work](https://www.notion.so/Session-7-Synthetic-Data-Generation-for-Evaluation-189cd547af3d8085ab5dc89d7b5c0879?pvs=4#189cd547af3d8103b7f2c5d9a383686a)| [Session 7: Synthetic Data Generation for Evaluation](https://www.notion.so/Session-7-Synthetic-Data-Generation-for-Evaluation-189cd547af3d8085ab5dc89d7b5c0879) |  [Recording](https://us02web.zoom.us/rec/share/rPTLLyth_oyE_7-aXWJoHnxKsg-UPHDrszdw5ny6ng7-l_DuX3M0W86THS2q2n-w.VL8kpsdpEOibmlg0) (1Q@@y#AD) | [Session 7: Synthetic Data Generation for Evaluation](https://www.canva.com/design/DAGcIQhny7k/unM4iPJ1HN83c18xRnnhBQ/edit?utm_content=DAGcIQhny7k&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) | You Are Here! | [Session 7: Synthetic Data Generation for Evaluation](https://forms.gle/erEBQJ3LoBnjFYFX6) | [AIE5 Feedback 2/4](https://forms.gle/E8iXiLwwpPCd49dx8) |
 
+
+### LOOM Walkthrough
+
+ Loom video : [Watch Video](https://www.loom.com/share/539918786c97412b80e99136547355ae?sid=3a1a0658-e01d-4250-ad47-a3b9bf4e0a8d)
+
 In today's assignment, we'll be creating Synthetic Data, and using it to benchmark (and improve) a LCEL RAG Chain.
 
 - 🤝 BREAKOUT ROOM #1

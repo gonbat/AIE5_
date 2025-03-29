@@ -9,6 +9,10 @@
 |:-----------------|:-----------------|:-----------------|:-----------------|:-----------------|:-----------------|:-----------------|
 | [Session 14: Pre-Work](https://www.notion.so/Session-14-Advanced-Agents-and-Reasoning-1a6cd547af3d800184c0c042fdb9dd73?pvs=4#1a6cd547af3d80ab9ddee9581538285c)| [Session 14: Advanced Agents and Reasoning](https://www.notion.so/Session-14-Advanced-Agents-and-Reasoning-1a6cd547af3d800184c0c042fdb9dd73) | [Recording](https://us02web.zoom.us/rec/share/9Sz-sPJXUr0iwCf8R-USY1ZLEHRdbcMOFxt56gSWBRzDFvjIKzGAQZQdHOMsBs63.CdqdFofBwGLvbXVM) (cdcnn@6i) | [Session 14: Advanced Agents and Reasoning](https://www.canva.com/design/DAGgVdCtgo0/iQk-xEO-rabxxaetUmHBeg/edit?utm_content=DAGgVdCtgo0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)| [14_Open_DeepResearch](https://github.com/AI-Maker-Space/AIE5/tree/main/14_Open_DeepResearch)| [Session 14: Advanced Agents and Reasoning](https://forms.gle/h8FZhB9WPQMXLFV1A)| [AIE5 Feedback 2/27](https://forms.gle/P1YcBPZuF6bhukU9A) |
 
+### LOOM Walkthrough
+
+ Loom video : [Watch Video](https://www.loom.com/share/78fee0d9121741fc8b4ed2a1ff550931?sid=c60a2eba-b586-4f1b-9d19-0f2dd35316d1)
+
 ### Steps to Run:
 
 1. Run `uv sync`

@@ -9,6 +9,11 @@
 |:-----------------|:-----------------|:-----------------|:-----------------|:-----------------|:-----------------|:-----------------|
 | [Session 9: Pre-Work](https://www.notion.so/Session-9-Fine-Tuning-Embeddings-or-Domain-Adapted-Retrieval-189cd547af3d80e2a20af073060f2c0c?pvs=4#189cd547af3d81048f71c349e2c5ca9d)| [Session 9: Fine-Tuning Embeddings or Domain-Adapted Retrieval](https://www.notion.so/Session-9-Fine-Tuning-Embeddings-or-Domain-Adapted-Retrieval-189cd547af3d80e2a20af073060f2c0c) | [Recording](https://us02web.zoom.us/rec/share/eWW79xYKT51-L-EWPAYEOabirkPjAuV_oyPb-7PeOPc-tdZnIZmv817wdesULUkw.dIVe86Fsaidc0M5h) (9P.Y.Ikv) | [Session 9: Fine-Tuning Embeddings or Domain-Adapted Retrieval](https://www.canva.com/design/DAGe090dCmE/mCfN3RdVz9StXX6ec9U_kg/edit?utm_content=DAGe090dCmE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)|You Are Here! | [Session 9 Assignment: Fine-Tuning Embeddings or Domain-Adapted Retrieval](https://forms.gle/eYVTYBLdDsV5QK1j8) | [AIE5 Feedback 2/11](https://forms.gle/FgtkahAXGivuZWsV8) |
 
+### LOOM Walkthrough
+
+ Loom video : [Watch Video](https://www.loom.com/share/f603a46608a2480c80b3f812bb046897?sid=59741eb4-5ea6-445f-b8a7-b7a3570a3eac)
+
+
 In today's assignment, we'll be fine-tuning embeddings!
 
 - 🤝 Breakout Room #1:

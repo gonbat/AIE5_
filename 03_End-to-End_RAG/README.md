@@ -11,6 +11,11 @@
 |:-----------------|:-----------------|:-----------------|:-----------------|:-----------------|:-----------------|:-----------------|
 | [Session 3: Pre-Work](https://www.notion.so/Session-3-End-to-End-RAG-Deployment-and-2025-Industry-Use-Cases-17bcd547af3d80f6b408ecc4f13dc37c?pvs=4#182cd547af3d80afbb70ec66b60e57e7)| [Session 3: End-to-End RAG Deployment and 2025 Industry Use Cases ](https://www.notion.so/Session-3-End-to-End-RAG-Deployment-and-2025-Industry-Use-Cases-17bcd547af3d80f6b408ecc4f13dc37c) | [Recording](https://us02web.zoom.us/rec/share/z34EifzLj8w-ZIBUyHY5g-zOoLx6uT7Pxll2xuxwHLBY471t7VQzypftjhIpt6Xi.UwCDCtAhWZ8r10GW) (@NNiSx8q) | [Session 3: End-to-End RAG](https://www.canva.com/design/DAGcIb0qWtg/CwUVvMJsSm_5DDoCScNIgw/edit?utm_content=DAGcIb0qWtg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) | You Are Here! | [Session 3: End-to-End RAG](https://docs.google.com/forms/d/e/1FAIpQLSczSym0fvak79vJjGHTxKTtTl52xN-1Q7HnXErYA2iX1A609Q/viewform?usp=sharing) | [AIE5 Feedback 1/21](https://forms.gle/HVmGTLnGUGRzqsoX6) |
 
+### LOOM Walkthrough
+
+ Loom video : [Watch Video](https://www.loom.com/share/4b9a24da81104958856c42a135c6a468?sid=73f71910-03d6-4546-8f75-20c837a1ef08)
+
+
 Building off last week, we're going to take our Pythonic RAG application to the next level!
 
 ## Getting Started
